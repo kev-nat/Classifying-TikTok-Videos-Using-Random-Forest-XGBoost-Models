@@ -1,1 +1,1 @@
-# Classifying-TikTok-Videos-Using-Random-Forest-XGBoost-Models
+# Classifying TikTok Videos Using Random Forest & XGBoost Models
