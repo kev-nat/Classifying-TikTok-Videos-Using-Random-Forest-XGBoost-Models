@@ -1,7 +1,7 @@
 # Classifying TikTok Videos Using Random Forest & XGBoost Models
 
 ### **Overview**
-<p align="justify"> The objective of this project was to develop XGBoost and random forest models to detect claims and opinions. The final random forest model achieved an accuracy of 99%. According to this model, the most significant factors in identifying whether a TikTok video contains a "claim" or an "opinion" were the video_view_count, video_like_count, video_share_count, and video_download_count. </p>
+<p align="justify"> The objective of this project was to develop XGBoost and random forest models to detect claims and opinions. The final random forest model achieved an accuracy of 99%. According to this model, the most significant factors in identifying whether a TikTok video contains a "claim" or an "opinion" were the <code>video_view_count</code>, <code>video_like_count</code>, <code>video_share_count</code>, and <code>video_download_count</code>. </p>
 
 <p align="justify"> The goal of this model is to reduce misinformation in TikTok videos. By implementing an effective prediction model, TikTok can decrease the backlog of user reports and prioritize them more effectively. </p>
 
